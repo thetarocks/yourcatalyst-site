@@ -4,6 +4,8 @@ Static Home, Projects and About pages for [yourcatalyst.in](https://yourcatalyst
 
 Built with HTML, CSS, JavaScript ES modules and SVG. Served by GitHub Pages; no WordPress runtime, application server, cookies or build dependencies. Three live previews run locally in the browser.
 
+![Research portfolio](docs/portfolio-desktop.jpg)
+
 ## Run locally
 
 ```sh
